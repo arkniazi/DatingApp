@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Oct 28 17:15:23 PKT 2018
+1.base=/home/capk/AndroidStudioProjects/wenkey-dating-app-template-android/app/build/intermediates/transforms/dexMerger/debug/1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/capk/AndroidStudioProjects/wenkey-dating-app-template-android/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=classes.dex

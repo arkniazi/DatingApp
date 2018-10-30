@@ -95,6 +95,8 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
 
         }
 
+
+
         @Override
         public void onTabReselected(TabLayout.Tab tab) {
 
